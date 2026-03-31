@@ -1,0 +1,5 @@
+# 百度AI图像识别项目 - 环境变量配置示例
+# 复制此文件为 .env，填入真实的 Key，但 .env 文件不要上传到代码仓！
+
+BAIDU_API_KEY=在此填入你的APIKey
+BAIDU_SECRET_KEY=在此填入你的SecretKey
